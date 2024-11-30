@@ -1,0 +1,31 @@
+This project is a dynamic and interactive Power BI dashboard analyzing sales, profit, and related details. It was created as part of my learning journey in data visualization and business analytics.  
+
+The dashboard provides actionable insights into key performance metrics, enabling better decision-making and business strategy planning.  
+
+- Inspiration  
+This project was inspired by [Mohamed Al Assaal], link to the video: https://youtu.be/v_re3WCPOjI?si=whkWLlMRcKAe7Ajk
+While following the tutorial, I expanded on the initial idea by incorporating unique features and adjustments to reflect my own understanding and creativity.  
+
+- Features and Skills Demonstrated  
+1- Original Skills from the Tutorial:  
+- Building a clean and interactive dashboard layout.  
+- Implementing slicers and filters for data segmentation.  
+- Visualizing sales and profit trends using bar and line charts.  
+- Designing an aesthetically appealing color scheme for better readability.  
+
+2- My Unique Contributions:  
+- **Custom Visualizations**: Added new visuals such as pie charts or tree maps to highlight specific data aspects.  
+- **Advanced DAX Functions**: Developed measures to calculate additional KPIs (e.g., profit margin, sales growth rates).  
+- **Data Preparation**: Cleaned and modeled raw datasets, creating relationships for seamless integration in Power BI.  
+- **User Experience Enhancements**: Improved interactivity by adding tooltips and drill-through pages for detailed analysis.  
+
+
+The dataset used for this project is fictitious and was sourced from Wide World Importers sample databases. Adjustments were made during the learning process to fit the project’s goals during the tutorial. 
+
+How to Use  
+1. Download the `.pbix` file from this repository.  
+2. Open it in Power BI Desktop.  
+3. Explore the interactive dashboard and slicers to analyze the data.  
+
+Acknowledgments  
+I want to thank [Mohamed Al Assaal] for the excellent tutorial, which helped me understand Power BI and inspired this project.  
